@@ -4,7 +4,7 @@
 
 
 # theguees
-=======
+
 CodeFest-TheGuees
 
 # Intro
@@ -56,4 +56,4 @@ To run the shortcuts, you may speak to Siri saying the exact title of the shortc
 
 This project is licensed to you under the terms of the [Cisco Sample
 Code License](./LICENSE).
-=======
+
