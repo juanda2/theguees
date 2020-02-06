@@ -4,68 +4,54 @@
 
 ---
 
-**ToDo's:**
+# theguees
+CodeFest-TheGuees
 
-- [ ] Consider writing your README first.  Doing so helps you clarify your intent, focuses your project, and it is much more fun to write documentation at the beginning of a project than at the end of one, see:
-    - [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-    - [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [ ] Ensure you put the [license and copyright header](./HEADER) at the top of all your source code files.
-- [ ] Be mindful of the third-party materials you use and ensure you follow Cisco's policies for creating and sharing Cisco Sample Code.
+# Intro
+This repo with shortcuts joins the Personal automation world of IOS and Iphones with the Networking world. We do this via a repo of commands or shortcuts that can not only turn lights on and off, but also allow the iPhone to query DNAC or Meraki directly, with voice commands or using inexpensive NFC tags.
 
----
+Even with a locked iPhone, it's possible to query DNAC to get a status of DNAC devices. Siri will respond by speaking only the relevant content back to the user.
 
-## Motivation
+The phone acts as a client (like Postman or Python would) and is able to speak back the results. This is a great first step into managing networks with Natural Language Processing - NLP.
 
-Include a short description of the motivation behind the creation and maintenance of the project.  Explain **why** the project exists.
+Another way to trigger the shortcuts is with NFC tags. Just by getting the phone closer to an NFC tag, we can trigger another shortcut that responds with the status of a critical endpoint (a critical Server, CEO's laptop, etc). The status could include Connection Type and status, location it's connected to including City and Country, and latest critical issues, among others.
 
-## Show Me!
+# Requirements
 
-What visual, if shown, clearly articulates the impact of what you have created?  In as concise a visualization as possible (code sample, CLI output, animated GIF, or screenshot) show what your project makes possible.
+- Any NFC Card (Try a hotel card, or an event badge)
+- The Apple IOS Shortcuts app (https://apps.apple.com/us/app/shortcuts/id915249334)
 
-## Features
+# Steps
 
-Include a succinct summary of the features/capabilities of your project.
+1. Download the DNAC Shortcut here: https://www.icloud.com/shortcuts/16943c2d3d0d4bb7a896e877d80b1834
 
-- Feature 1
-- Feature 2
-- Feature 3
+2. Download the Meraki Shortcut here: https://www.icloud.com/shortcuts/74d6b6b5921a4db1a9793f18850ab672
+(This shortcut requires a Meraki API Key, a Meraki Vision Serial Number and a Image Recognition API Key from imagga.com (free))
+
+To run the shortcuts, you may speak to Siri saying the exact title of the shortcuts, or if you want to use the NFC tag feature, you may run a shortcut by following this process:
+
+1. Open the Shortcuts app
+2. Click on the Automation Tab at the bottom
+3. Click on the Plus (+) sign of the top right corner
+4. Click on Create Personal Automation
+5. Scroll down and click NFC
+6. Click "Scan"
+7. Bring the phone close to the NFC tag
+8. Save your new automation.
+
+
 
 ## Technologies & Frameworks Used
 
-This is Cisco Sample Code!  What Cisco and third-party technologies are you working with?  Are you using a coding framework or software stack?  A simple list will set the context for your project.
 
 **Cisco Products & Services:**
 
-- Product
-- Service
+- DNAC
+- Meraki
 
 **Third-Party Products & Services:**
 
-- Product
-- Service
-
-**Tools & Frameworks:**
-
-- Framework 1
-- Automation Tool 2
-
-## Usage
-
-If people like your project, they will want to use it.  Show them how.
-
-## Installation
-
-Provide a step-by-step series of examples and explanations for how to install your project and its dependencies.
-
-## Authors & Maintainers
-
-Smart people responsible for the creation and maintenance of this project:
-
-- David Fernandez <davidfe@cisco.com>
-
-## Credits
-
-Give proper credit.  Inspired by another project or article?  Was your work made easier by a tutorial?  Include links to the people, projects, and resources that were influential in the creation of this project.
+- IOS Shortcuts
 
 ## License
 
