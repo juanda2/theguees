@@ -1,10 +1,13 @@
 # theguees
+<<<<<<< HEAD
 
 *joins the Personal automation world of IOS and Iphones with the Networking world*
 
 ---
 
 # theguees
+=======
+>>>>>>> 4bf6099fcf12a6ebe2f6a8fc2dfe9d45e3271046
 CodeFest-TheGuees
 
 # Intro
@@ -39,6 +42,7 @@ To run the shortcuts, you may speak to Siri saying the exact title of the shortc
 7. Bring the phone close to the NFC tag
 8. Save your new automation.
 
+<<<<<<< HEAD
 
 
 ## Technologies & Frameworks Used
@@ -57,3 +61,5 @@ To run the shortcuts, you may speak to Siri saying the exact title of the shortc
 
 This project is licensed to you under the terms of the [Cisco Sample
 Code License](./LICENSE).
+=======
+>>>>>>> 4bf6099fcf12a6ebe2f6a8fc2dfe9d45e3271046
