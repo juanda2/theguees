@@ -17,7 +17,7 @@ Another way to trigger the shortcuts is with NFC tags. Just by getting the phone
 
 # Steps
 
-1. Download the DNAC Shortcut here: https://www.icloud.com/shortcuts/74d6b6b5921a4db1a9793f18850ab672
+1. Download the DNAC Shortcut here: https://www.icloud.com/shortcuts/16943c2d3d0d4bb7a896e877d80b1834
 
 2. Download the Meraki Shortcut here: https://www.icloud.com/shortcuts/74d6b6b5921a4db1a9793f18850ab672
 (This shortcut requires a Meraki API Key, a Meraki Vision Serial Number and a Image Recognition API Key from imagga.com (free))
