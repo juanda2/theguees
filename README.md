@@ -1,11 +1,8 @@
-# theguees
+# theguees (CodeFest 2020 Submission)
 
 *joins the Personal automation world of IOS and Iphones with the Networking world*
 
 
-# theguees
-
-CodeFest-TheGuees
 
 # Intro
 This repo with shortcuts joins the Personal automation world of IOS and Iphones with the Networking world. We do this via a repo of commands or shortcuts that can not only turn lights on and off, but also allow the iPhone to query DNAC or Meraki directly, with voice commands or using inexpensive NFC tags.
