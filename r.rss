@@ -3,35 +3,327 @@
  
   <channel>
 
-    <title>The Shuttleworths</title>
-    <description>Long running radio comedy about a musician, his family and his neighbour and manager Ken.</description>
-    <link>https://fourble.co.uk/podcast/shuttleworth</link>
+    <title>Doctor Who - The Audio Visuals</title>
+    <description>Unlicensed series of fan Doctor Who audio dramas produced in Britain during 1980s and the early 1990s.
+
+The Audio Visuals began with their pilot recording of The Space Wail in 1984. The following three seasons of stories were produced by Bill Baggs between 1985 and 1988. The fourth and final season was produced by Gary Russell from 1989 to 1991. There were plans for a fifth season which were later abandoned.
+
+Many of the people working on the Audio Visuals went on to produce more professional, licensed Doctor Who audio dramas for companies like BBV and BIG Finish. Gary Russell became the executive producer of BIG Finish Productions, which he also wrote for along with numerous books. Nicholas Briggs is now executive producer of BIG Finish Productions, which he has also written, directed and acted for. He also worked for BBV. Both they (and others involved with Audio Visuals) went on to work for the BBC on the official Doctor Who franchise, with Briggs becoming the programme's designated Dalek and Cyberman voice artiste, as well as appearing on screen in the Torchwood: Children of Earth miniseries. Russell became the script editor for the revived series in 2005.
+
+Some of the Audio Visuals' stories were later adapted for release by BIG Finish. These were, The Mutant Phase, Vilgreth (released as Last of the Titans), Minuet in Hell, Sword of Orion, and Cuddlesome. More Than a Messiahwould later be adapted as a video production for BBV as part of the Stranger series, with Colin Baker, Nicola Bryant and Sophie Aldred in major roles, but with all direct references to Doctor Who characters and concepts changed.</description>
+    <link>https://fourble.co.uk/podcast/doctorwhothe</link>
     <language>en-us</language>
     <copyright>Unknown</copyright>
-    <lastBuildDate>Fri, 04 Aug 2023 13:43:06 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Aug 2023 13:43:06 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2023 18:09:10 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Aug 2023 18:09:10 +0000</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>kevan@kevan.org (Fourble Admin)</webMaster>
 	<generator>Fourble</generator>
 		<image>
-			<url>https://fourble.co.uk/icon-shuttleworth.png</url>
-			<title>The Shuttleworths</title>
-			<link>https://fourble.co.uk/podcast/shuttleworth</link>
+			<url>https://fourble.co.uk/icon-doctorwhothe.png</url>
+			<title>Doctor Who - The Audio Visuals</title>
+			<link>https://fourble.co.uk/podcast/doctorwhothe</link>
 			<description>Fourble autogenerates podcasts from lists of MP3 files.</description>
 		</image>
 		
     <itunes:author>Fourble</itunes:author>
-    <itunes:subtitle>Comedy about a Sheffield musician</itunes:subtitle>
-    <itunes:summary>Long running radio comedy about a musician, his family and his neighbour and manager Ken.</itunes:summary>
+    <itunes:subtitle>Unlicensed audio dramas from the 1980s and 1990s</itunes:subtitle>
+    <itunes:summary>Unlicensed series of fan Doctor Who audio dramas produced in Britain during 1980s and the early 1990s.
+
+The Audio Visuals began with their pilot recording of The Space Wail in 1984. The following three seasons of stories were produced by Bill Baggs between 1985 and 1988. The fourth and final season was produced by Gary Russell from 1989 to 1991. There were plans for a fifth season which were later abandoned.
+
+Many of the people working on the Audio Visuals went on to produce more professional, licensed Doctor Who audio dramas for companies like BBV and BIG Finish. Gary Russell became the executive producer of BIG Finish Productions, which he also wrote for along with numerous books. Nicholas Briggs is now executive producer of BIG Finish Productions, which he has also written, directed and acted for. He also worked for BBV. Both they (and others involved with Audio Visuals) went on to work for the BBC on the official Doctor Who franchise, with Briggs becoming the programme's designated Dalek and Cyberman voice artiste, as well as appearing on screen in the Torchwood: Children of Earth miniseries. Russell became the script editor for the revived series in 2005.
+
+Some of the Audio Visuals' stories were later adapted for release by BIG Finish. These were, The Mutant Phase, Vilgreth (released as Last of the Titans), Minuet in Hell, Sword of Orion, and Cuddlesome. More Than a Messiahwould later be adapted as a video production for BBV as part of the Stranger series, with Colin Baker, Nicola Bryant and Sophie Aldred in major roles, but with all direct references to Doctor Who characters and concepts changed.</itunes:summary>
 	
 	<item>
-<title>The Shuttleworths: Cotton Buddies</title>
-<link>https://archive.org/download/radioarchive.cx/The%20Shuttleworths%20-%205%20series%20-%20BBC%20Radio%20Comedy%20-%20MP3%20-%20Slimoo/The%20Shuttleworths%20-%20S01%20-%20E01%20-%20Cotton%20Buddies.mp3</link>
-<guid>https://archive.org/download/radioarchive.cx/The%20Shuttleworths%20-%205%20series%20-%20BBC%20Radio%20Comedy%20-%20MP3%20-%20Slimoo/The%20Shuttleworths%20-%20S01%20-%20E01%20-%20Cotton%20Buddies.mp3</guid>
-<description>9AM</description>
-<enclosure url="https://archive.org/download/r09-09AM/r09-09AM.mp3" length="14216407" type="audio/mpeg"/>
-<description>10AM</description>
+<title>Doctor Who - The Audio Visuals: Justyce</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x09%20-%20Justyce.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x09%20-%20Justyce.mp3</guid>
+<description>&quot;Justyce&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 29 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x09%20-%20Justyce.mp3" length="173626440" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:28 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Geopath</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x08%20-%20Geopath.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x08%20-%20Geopath.mp3</guid>
+<description>&quot;Geopath&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 28 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x08%20-%20Geopath.mp3" length="172518886" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:27 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Subterfuge</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x07%20-%20Subterfuge.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x07%20-%20Subterfuge.mp3</guid>
+<description>&quot;Subterfuge&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 27 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x07%20-%20Subterfuge.mp3" length="239359598" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:26 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Truman's Excellent Adventure</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x06%20-%20Truman%27s%20Excellent%20Adventure.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x06%20-%20Truman%27s%20Excellent%20Adventure.mp3</guid>
+<description>&quot;Truman's Excellent Adventure&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 26 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x06%20-%20Truman%27s%20Excellent%20Adventure.mp3" length="56099230" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:25 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Mythos</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x05%20-%20Mythos.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x05%20-%20Mythos.mp3</guid>
+<description>&quot;Mythos&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 25 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x05%20-%20Mythos.mp3" length="195475104" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:24 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Endurance</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x04%20-%20Endurance.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x04%20-%20Endurance.mp3</guid>
+<description>&quot;Endurance&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 24 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x04%20-%20Endurance.mp3" length="261694883" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:23 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Cuddlesome</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x03%20-%20Cuddlesome.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x03%20-%20Cuddlesome.mp3</guid>
+<description>&quot;Cuddlesome&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 23 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x03%20-%20Cuddlesome.mp3" length="161608900" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:22 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Requiem</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x02%20-%20Requiem.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x02%20-%20Requiem.mp3</guid>
+<description>&quot;Requiem&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 22 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x02%20-%20Requiem.mp3" length="163752044" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:21 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Deadfall</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%204x01%20-%20Deadfall.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%204x01%20-%20Deadfall.mp3</guid>
+<description>&quot;Deadfall&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 21 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%204x01%20-%20Deadfall.mp3" length="167844720" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:20 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Planet of Lies</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%203x07%20-%20Planet%20of%20Lies.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%203x07%20-%20Planet%20of%20Lies.mp3</guid>
+<description>&quot;Planet of Lies&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 20 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%203x07%20-%20Planet%20of%20Lies.mp3" length="260457375" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:19 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Carny</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%203x06%20-%20Carny.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%203x06%20-%20Carny.mp3</guid>
+<description>&quot;Carny&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 19 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%203x06%20-%20Carny.mp3" length="123717241" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:18 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Sword of Orion</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%203x05%20-%20Sword%20of%20Orion.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%203x05%20-%20Sword%20of%20Orion.mp3</guid>
+<description>&quot;Sword of Orion&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 18 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%203x05%20-%20Sword%20of%20Orion.mp3" length="177464209" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:17 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: More than a Messiah</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%203x04%20-%20More%20than%20a%20Messiah.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%203x04%20-%20More%20than%20a%20Messiah.mp3</guid>
+<description>&quot;More than a Messiah&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 17 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%203x04%20-%20More%20than%20a%20Messiah.mp3" length="101609921" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:16 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Enclave Irrelative</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%203x03%20-%20Enclave%20Irrelative.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%203x03%20-%20Enclave%20Irrelative.mp3</guid>
+<description>&quot;Enclave Irrelative&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 16 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%203x03%20-%20Enclave%20Irrelative.mp3" length="164830609" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:15 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Secret of Nematoda</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%203x02%20-%20Secret%20of%20Nematoda.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%203x02%20-%20Secret%20of%20Nematoda.mp3</guid>
+<description>&quot;Secret of Nematoda&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 15 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%203x02%20-%20Secret%20of%20Nematoda.mp3" length="136757137" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:14 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Second Solution</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%203x01%20-%20Second%20Solution.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%203x01%20-%20Second%20Solution.mp3</guid>
+<description>&quot;Second Solution&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 14 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%203x01%20-%20Second%20Solution.mp3" length="103412973" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:13 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Blood Circuit</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%202x07%20-%20Blood%20Circuit.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%202x07%20-%20Blood%20Circuit.mp3</guid>
+<description>&quot;Blood Circuit&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 13 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%202x07%20-%20Blood%20Circuit.mp3" length="243874141" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:12 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Minuet in Hell</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%202x06%20-%20Minuet%20in%20Hell.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%202x06%20-%20Minuet%20in%20Hell.mp3</guid>
+<description>&quot;Minuet in Hell&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 12 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%202x06%20-%20Minuet%20in%20Hell.mp3" length="117955782" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:11 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: The Trilexia Threat</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%202x05%20-%20The%20Trilexia%20Threat.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%202x05%20-%20The%20Trilexia%20Threat.mp3</guid>
+<description>&quot;The Trilexia Threat&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 11 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%202x05%20-%20The%20Trilexia%20Threat.mp3" length="95887880" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:10 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Vilgerth</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%202x04%20-%20Vilgreth.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%202x04%20-%20Vilgreth.mp3</guid>
+<description>&quot;Vilgerth&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 10 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%202x04%20-%20Vilgreth.mp3" length="49310737" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:09 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: The Destructor Contract</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%202x03%20-%20The%20Destructor%20Contract.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%202x03%20-%20The%20Destructor%20Contract.mp3</guid>
+<description>&quot;The Destructor Contract&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 9 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%202x03%20-%20The%20Destructor%20Contract.mp3" length="128841170" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:08 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: The Mutant Phase</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%202x02%20-%20The%20Mutant%20Phase.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%202x02%20-%20The%20Mutant%20Phase.mp3</guid>
+<description>&quot;The Mutant Phase&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 8 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%202x02%20-%20The%20Mutant%20Phase.mp3" length="176374778" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:07 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Maenad</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%202x01%20-%20Maenad.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%202x01%20-%20Maenad.mp3</guid>
+<description>&quot;Maenad&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 7 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%202x01%20-%20Maenad.mp3" length="172856834" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:06 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Shadow World</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%201x05%20-%20Shadow%20World.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%201x05%20-%20Shadow%20World.mp3</guid>
+<description>&quot;Shadow World&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 6 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%201x05%20-%20Shadow%20World.mp3" length="96808574" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:05 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Cloud of Fear</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%201x04%20-%20Cloud%20of%20Fear.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%201x04%20-%20Cloud%20of%20Fear.mp3</guid>
+<description>&quot;Cloud of Fear&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 5 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%201x04%20-%20Cloud%20of%20Fear.mp3" length="121660359" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:04 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Conglomerate</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%201x03%20-%20Conglomerate.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%201x03%20-%20Conglomerate.mp3</guid>
+<description>&quot;Conglomerate&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 4 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%201x03%20-%20Conglomerate.mp3" length="70336434" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:03 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: Connection 13</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%201x02%20-%20Connection%2013.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%201x02%20-%20Connection%2013.mp3</guid>
+<description>&quot;Connection 13&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 3 of 29.</description>
+<enclosure url="https://archive.org/download/doctorwhoaudiovisuals/AV%201x02%20-%20Connection%2013.mp3" length="64869409" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:02 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: The Time Ravagers</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%201x01%20-%20The%20Time%20Ravagers.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%201x01%20-%20The%20Time%20Ravagers.mp3</guid>
+<description>&quot;The Time Ravagers&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 2 of 29.</description>
 <enclosure url="https://archive.org/download/r10-10AM/r10-10AM.mp3" length="14216407" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Fri, 04 Aug 2023 00:00:01 +0000</pubDate>
+</item><item>
+<title>Doctor Who - The Audio Visuals: The Space Wail</title>
+<link>https://archive.org/download/doctorwhoaudiovisuals/AV%200x00%20-%20The%20Space%20Wail.mp3</link>
+<guid>http://archive.org/download/doctorwhoaudiovisuals/AV%200x00%20-%20The%20Space%20Wail.mp3</guid>
+<description>&quot;The Space Wail&quot; from archive.org was assembled into the &quot;Doctor Who - The Audio Visuals&quot; podcast by Fourble.
+
+Episode 1 of 29.</description>
+<enclosure url="https://archive.org/download/r09-09AM/r09-09AM.mp3" length="14216407" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
 </item>
