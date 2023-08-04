@@ -31,7 +31,7 @@
 <description>&quot;Cotton Buddies&quot; from archive.org was assembled into the &quot;The Shuttleworths&quot; podcast by Fourble.
 
 Episode 1 of 34.</description>
-<enclosure url="ftp://pi:Zxcv1234@108.74.197.129/r09-09AM.mp3" length="14216407" type="audio/mpeg"/>
+<enclosure url="ftp://pi%3AZxcv1234%40108.74.197.129/r09-09AM.mp3" length="14216407" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
 </item>
